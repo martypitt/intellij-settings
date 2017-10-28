@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.lbg.legato.activitymonitor.ActivityMonitorApp.resource(path)" />
+        <added pattern="org.mockito.Matchers.eq(value)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+  </component>
+</application>

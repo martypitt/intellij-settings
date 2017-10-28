@@ -1,0 +1,28 @@
+<templateSet group="Java">
+  <template name="req" value="@RequiredArgsConstructor(onConstructor = @__(@Autowired))" description="Lombok RequiredArgs" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mainboot" value="public static void main(String[] args) {&#10;      SpringApplication.run($END$, args);&#10;}" description="Spring boot Main" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="expected" value="@Rule&#10;public ExpectedException expectedException = ExpectedException.none();" description="ExpectedException rule" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="notimplemented" value="throw new NotImplementedException(&quot;Not implemented&quot;);" description="Throws new NotImplementedException" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="noarg" value="@NoArgsConstructor(access = AccessLevel.PRIVATE, force = true)" description="Lombok NoArgs, forced" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
