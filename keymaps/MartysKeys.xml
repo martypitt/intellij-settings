@@ -1,0 +1,27 @@
+<keymap version="1" name="MartysKeys" parent="Default for XWin">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="GotoFile" />
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="NextProjectWindow" />
+  <action id="PreviousProjectWindow" />
+  <action id="ReplaceInPath" />
+</keymap>
