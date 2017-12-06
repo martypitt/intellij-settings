@@ -1,11 +1,11 @@
 <keymap version="1" name="Marty - Ubuntu" parent="Default for GNOME">
   <action id="AddToFavoritesPopup" />
-  <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.SetNull" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorPasteFromX11" />
   <action id="Inline" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
