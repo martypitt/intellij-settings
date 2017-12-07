@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="CompileDirty" />
   <action id="Console.TableResult.SetNull" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
@@ -22,6 +23,9 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="Inline" />
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
   <action id="Maven.Uml.Exclude" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
