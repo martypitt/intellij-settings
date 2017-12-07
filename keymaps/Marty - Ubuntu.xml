@@ -16,6 +16,11 @@
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
   <action id="EditorPasteFromX11" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="GotoSuperMethod" />
   <action id="Inline" />
   <action id="Maven.Uml.Exclude" />
   <action id="NewElementInMenuGroup">
