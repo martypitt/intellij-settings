@@ -34,6 +34,7 @@
   <action id="Maven.Uml.Exclude" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
+    <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
@@ -49,5 +50,6 @@
     <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="tasks.goto" />
   <action id="tasks.open.in.browser" />
 </keymap>
