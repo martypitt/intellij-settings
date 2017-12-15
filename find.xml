@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>x</mask>
       <mask>java</mask>
@@ -18,9 +19,7 @@
       <mask>*.yml</mask>
       <mask>*.js</mask>
       <mask>*.jso</mask>
-      <mask>*.k</mask>
       <mask>*.ki</mask>
-      <mask>*.kt</mask>
       <mask>yml</mask>
       <mask>j</mask>
       <mask>json</mask>
@@ -28,12 +27,14 @@
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.k</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
