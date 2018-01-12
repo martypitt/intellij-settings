@@ -13,7 +13,7 @@
   <action id="DatabaseView.CopyTable" />
   <action id="DatabaseView.SqlGenerator" />
   <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="Debugger.ResumeThread">
     <keyboard-shortcut first-keystroke="f8" />
