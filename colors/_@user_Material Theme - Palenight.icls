@@ -1,30 +1,23 @@
 <scheme name="_@user_Material Theme - Palenight" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.5" />
+  <option name="FONT_SCALE" value="2.4166667" />
   <metaInfo>
     <property name="created">2017-06-09T13:13:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-09-14T23:47:52</property>
+    <property name="modified">2018-02-26T09:16:54</property>
     <property name="originalScheme">Material Theme - Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Roboto Mono Light for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="28" />
+    <option name="EDITOR_FONT_SIZE" value="27" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="35" />
+    <option name="EDITOR_FONT_SIZE" value="34" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Roboto Mono Light for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="35" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="35" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -37,7 +30,8 @@
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="292d3e" />
+    <option name="DOCUMENTATION_COLOR" value="143e18" />
+    <option name="ERROR_HINT" value="292d3e" />
     <option name="FILESTATUS_ADDED" value="80cbc4" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
@@ -58,11 +52,12 @@
     <option name="GUTTER_BACKGROUND" value="292d3e" />
     <option name="INDENT_GUIDE" value="4e5579" />
     <option name="INFORMATION_HINT" value="292d3e" />
-    <option name="LINE_NUMBERS_COLOR" value="3a3f58" />
+    <option name="LINE_NUMBERS_COLOR" value="4c4858" />
     <option name="METHOD_SEPARATORS_COLOR" value="828ed5" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="QUESTION_HINT" value="292d3e" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="292d3e" />
     <option name="RIGHT_MARGIN_COLOR" value="444267" />
     <option name="SELECTED_INDENT_GUIDE" value="828ed5" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
@@ -70,6 +65,7 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="444267" />
+    <option name="TOOLTIP" value="3e1b20" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212c32" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
