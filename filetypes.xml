@@ -4,6 +4,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="yml;" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
