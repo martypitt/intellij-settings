@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Kotlin plugin updates" />
+    <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
